@@ -1,0 +1,22 @@
+.card {
+    background-color: rgb(46, 46, 46);
+    width: 35rem;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.card:hover {
+    img.product-img {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes slide {
+    0% {
+        right: -20%;
+    }
+
+    100% {
+        right: 2%;
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "fwe-ws-24-25-123456",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.1",
+    "express": "^4.21.1",
+    "fwe-ws-24-25-123456": "file:",
+    "jest": "^29.7.0",
+    "mysql2": "^3.11.5",
+    "sequelize": "^6.37.5",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.5",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.20",
+    "ts-node": "^10.9.2"
+  }
+}
