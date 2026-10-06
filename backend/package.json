@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/express": "^5.0.0",
     "@types/jest": "^29.5.14",
-    "@types/node": "^22.10.1",
+    "@types/node": "^26.6.4",
     "express": "^4.21.1",
     "fwe-ws-24-25-123456": "file:",
     "jest": "^29.7.0",
