@@ -19,7 +19,7 @@
     "jest": "^29.7.0",
     "mysql2": "^3.11.5",
     "sequelize": "^6.37.5",
-    "supertest": "^7.0.0",
+    "supertest": "^7.3.1",
     "ts-jest": "^29.2.5",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.7.2"
