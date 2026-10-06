@@ -12,11 +12,11 @@
   "license": "ISC",
   "dependencies": {
     "@types/express": "^5.0.0",
-    "@types/jest": "^29.5.14",
+    "@types/jest": "^30.0.0",
     "@types/node": "^22.10.1",
     "express": "^4.21.1",
     "fwe-ws-24-25-123456": "file:",
-    "jest": "^29.7.0",
+    "jest": "^30.5.2",
     "mysql2": "^3.11.5",
     "sequelize": "^6.37.5",
     "supertest": "^7.0.0",
